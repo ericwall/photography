@@ -3,7 +3,7 @@ baseurl: "https://photography.ericwall.me"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: "G-8ZRV44TSQF"
 
 # UI configs
 title: "Photography by Eric Wall"
